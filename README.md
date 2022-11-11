@@ -1,5 +1,5 @@
-# PersistentHomologyOnGraphs
-A visualization tool for using persistent homology to interact with undirected graphs.
+# Persistent Homology On Graphs
+A Processing-based visualization tool for using persistent homology to interact with the 0-dimensional persistent homology of undirected graphs.
 
 ------------------------
 Publication
